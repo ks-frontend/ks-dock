@@ -5,7 +5,7 @@
   "authors": [
     "Khalid Sookia <khalidsookia@gmail.com>"
   ],
-  "description": "A dock bar for the ks-frontend-framework",
+  "description": "Top Dock bar library part of iknsa-frontend-framework but can be used independently",
   "main": "vendor/iknsa/ks/lib/ks-front-dock/dock.js",
   "keywords": [
     "Dock,bar,css, compass, jquery"
