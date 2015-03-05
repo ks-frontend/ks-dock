@@ -1,5 +1,5 @@
 /*!
- * ks-dock - v0.0.1 - 2015-03-03
+ * ks-dock - v0.0.1 - 2015-03-05
  * https://github.com/ks-frontend/ks-dock
  * Copyright (c) 2015 
  * Licensed ISC
