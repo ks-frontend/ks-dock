@@ -12,3 +12,7 @@ The point of the ks-framework is to avoid having unused code into your projects 
 ```console
 $ bower install ks-dock
 ```
+
+[![Bower version](https://badge.fury.io/bo/ks-dock.svg)](http://badge.fury.io/bo/ks-dock)
+
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
